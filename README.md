@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmal Kodikara</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-- 🌱 I’m **Software Engineering Udergraduate Student**
+- 🌱 I’m **Software Engineering Undergraduate Student**
 
 - 📫 How to reach me **nirmalukodikara@gmail.com**
 
