@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 - 🌱 I’m **Software Engineering Undergraduate Student**
-- 🌐 Portfolio Website: <a href="https://nirmalkodikara.vercel.app" target="_blank">nirmalkodikara.vercel.app</a>
+- 🌐 Portfolio Website: <a href="https://nirmalkodikara.vercel.app" target="_blank" rel="noopener noreferrer">nirmalkodikara.vercel.app</a>
 - 📫 How to reach me **nirmalukodikara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
